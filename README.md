@@ -4,3 +4,4 @@ Simple project ideas that can be used for practice and develop our skill in scri
 
 1. Guess the number
 2. Rock-Paper-Scissors game
+3. Password generator
